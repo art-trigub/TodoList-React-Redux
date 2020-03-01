@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.task-item{
+  background-color: #fff;
+}
+
+.task-item.done{
+  background-color: greenyellow;
+}
